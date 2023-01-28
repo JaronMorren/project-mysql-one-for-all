@@ -1,4 +1,6 @@
 -- I created this database with the help of Murilo Scapim
+-- I completed the 2nd challenge with the help of this site:https://www.w3resource.com/sql/aggregate-functions/count-function.php/s/sql-exercises/ql-exercises-quering-on-multiple-table.php
+
 
 DROP DATABASE IF EXISTS SpotifyClone;
 
